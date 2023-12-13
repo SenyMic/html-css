@@ -1,0 +1,42 @@
+body {
+    background-color: mediumspringgreen;
+    text-align: justify;
+    font-family: Tahoma;
+    font-size: 14px;
+}
+
+.image {
+    width: 250px;
+    height: 150px;
+    border: 2px solid black;
+}
+
+.text {
+    background-color: darkseagreen;
+    font-family: Tahoma;
+    text-align: justify;
+    height: 150px;
+
+}
+
+h1 {
+    color: blue;
+    font-family: Monotype Corsiva;
+    font-size: 50px;
+}
+
+h2 {
+    background-color: aqua;
+    font-family: Comic Sans MS;
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 24рх;
+}
+
+hr {
+    background-color: blue;
+    height: 5px;
+    width: 50%;
+}
